@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Service TIC</strong>, focadas em soluções de infraestrutura, monitoramento e ITSM.
+ <strong>Service TIC</strong>, soluções de monitoramento, observabilidade, ITSM com Central de Serviço Compartilhado (CSC).
 </p>
 
 
