@@ -2,8 +2,8 @@
   <img 
     src="https://servicetic.com.br/wp-content/imagens-servicetic/Logo_Service_TIC_Registrada_Branca_Github_2.png"
     alt="Service TIC"
-    width="500"
-    height="500"
+    width="400"
+    height="400"
   >
 </p>
 
